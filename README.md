@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Steve J.
+Business Intelligence student
+Cybersecurity, Data Science and low-level programming are my areas of expertise
+
+Check my repos for some cool R scripts 😉
+========================================
+Cybersecurity repo containing a lot of scripts is invite-only (with great power comes great responsability)
+
 
 <!--
 **pip-steve/pip-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
