@@ -1,5 +1,5 @@
 ## Hi, I'm Steve J.
-Cybersecurity🦠 Data Science🔬 and low-level🔌 programming are my areas of expertise 💪
+Cybersecurity🦠 Data Science🔬 low-level🔌 programming and telematics📶 are my areas of expertise 💪
 
 ===========================================
 
