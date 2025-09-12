@@ -1,5 +1,4 @@
-## Hi, I'm Steve J.
-Business Intelligence student
+## Hi, I'm Steve J. a BI student
 Cybersecurity🦠 Data Science🔬 and low-level🔌 programming are my areas of expertise 💪
 
 ===========================================
