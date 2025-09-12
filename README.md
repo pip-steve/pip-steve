@@ -1,13 +1,11 @@
 ## Hi, I'm Steve J.
 Business Intelligence student
-Cybersecurity, Data Science and low-level programming are my areas of expertise
+Cybersecurity🦠 Data Science🔬 and low-level🔌 programming are my areas of expertise 💪
+
 ===========================================
 
 
 <!--
-**pip-steve/pip-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
