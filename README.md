@@ -1,7 +1,8 @@
 ## Hi, I'm Steve J.
-Cybersecurity🦠 Data Science🔬 low-level programming🔌 and telematics📶 are my areas of expertise 💪
+Cybersecurity🦠 Data Science🔬 and telematics📶 are my areas of expertise 💪
 
 🌱 Currently learning C and Assembly for extracurricular projects
+📚 Graduation date: 2027
 
 
 <!--
