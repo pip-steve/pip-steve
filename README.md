@@ -1,7 +1,7 @@
 ## Hi, I'm Steve J.
-Cybersecurity🦠 Data Science🔬 and telematics📶 are my areas of expertise 💪
+Cybersecurity and IT🦠 Data Science🔬 and Telematics📶 are my areas of expertise 💪
 
-🌱 Currently learning C and Assembly for extracurricular projects
+🌱 Currently working towards a CCNA certification
 📚 Graduation date: 2027
 
 
