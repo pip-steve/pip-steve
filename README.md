@@ -1,7 +1,7 @@
 ## Hi, I'm Steve J.
 Cybersecurity and IT🦠 Data Science🔬 and Telematics📶 are my areas of expertise 💪
 
-🌱 Currently working towards a CCNA certification
+🌱 Currently working towards a CCNA and Comptia+ certification
 📚 Graduation date: 2027
 
 
